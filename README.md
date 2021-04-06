@@ -1,4 +1,4 @@
-#olá meu nome é simon sou desenvolvedor do lobo 
+olá meu nome é simon sou desenvolvedor do lobo 
 crio meu bot na relp.it
 ele é um bot muito top 
 
