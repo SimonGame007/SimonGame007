@@ -29,3 +29,17 @@ My bot was created at [relpit.com] (https://replit.com/) In java script
 
 
 ![Foto do lobo](https://user-images.githubusercontent.com/77907916/117449523-7c086b80-af16-11eb-8f35-0fb89fd88ffd.png) ![image](https://user-images.githubusercontent.com/77907916/117450259-5d56a480-af17-11eb-8ee0-0087c48cc94d.png)
+
+
+🖐️OLÁ MI NOMBRE ES SIMON AM THE WOLF DESARROLLADOR
+
+🔗 SERVIDOR DE SOPORTE:
+https://discord.gg/f88QjgPXU8
+
+
+🤖 ADICION O BOT:
+https://discord.com/oauth2/authorize?client_id=786953231187050517&scope=bot&permissions=8
+
+Mi bot fue creado en [relpit.com] (https://replit.com/) en script java
+
+![Foto do lobo](https://user-images.githubusercontent.com/77907916/117449523-7c086b80-af16-11eb-8f35-0fb89fd88ffd.png) ![image](https://user-images.githubusercontent.com/77907916/117450259-5d56a480-af17-11eb-8ee0-0087c48cc94d.png)
