@@ -1,4 +1,5 @@
-olá meu nome é simon sou desenvolvedor do lobo 
+olá meu nome é simon sou desenvolvedor do lobo ![Foto do lobo](https://user-images.githubusercontent.com/77907916/117449523-7c086b80-af16-11eb-8f35-0fb89fd88ffd.png)
+
 
 SEVIDOR DE SUPORTE:
 https://discord.gg/f88QjgPXU8
