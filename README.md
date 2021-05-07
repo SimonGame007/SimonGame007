@@ -8,3 +8,5 @@ ADICIONE O BOT:
 https://discord.com/oauth2/authorize?client_id=786953231187050517&scope=bot&permissions=8
 
 Meu bot foi criado na [relpit.com](https://replit.com/)
+
+Programador em js(JAVA SCRIPT)
